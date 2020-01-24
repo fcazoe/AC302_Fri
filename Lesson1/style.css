@@ -1,0 +1,18 @@
+img {
+	height: 80% ;
+	margin: 10px;
+}
+
+.boxes{
+	width:80%;
+	height: 150px;
+	display: flex;
+	flex-direction: row;
+	border: navy 5px double;
+}
+
+.content{
+	padding: 2px 20px;
+	height: 80%;
+	border: indigo 2px solid;
+}
